@@ -41,11 +41,12 @@ body {
 .carousel {
   height: 500px;
   margin-bottom: 60px;
-  background: url("../img/typewriter-1004433_1280_2.jpg") no-repeat center center fixed;  
+  background: url("../img/typewriter-1004433_1280_2.jpg") no-repeat center center fixed;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
+  color: black;
 }
 
 /* Declare heights because of positioning of img element */
