@@ -1,0 +1,9 @@
+/* Global section styles */
+
+section.grey {
+    background: #f4f4f4;
+}
+
+section{
+  padding: 100px;
+}
