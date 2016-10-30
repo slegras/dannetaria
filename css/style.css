@@ -7,3 +7,16 @@ section.grey {
 section{
   padding: 100px;
 }
+
+.navbar-brand img{
+	height: 50px;
+  /*width:60%;
+  height: auto;"*/
+}
+
+.navbar-brand a{
+	/*padding: 17px 15px 20.5px 0px;*/
+	font-family: sans-serif;
+	text-transform: none;
+	font-weight: bold;
+}
